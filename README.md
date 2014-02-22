@@ -5,14 +5,14 @@ This is an exercise geared towards the younger generation (written for a Girl Sc
 
 ## What's in here?
 
-### The slide deck includes:
+### The slide deck (on the slides page) includes:
 
 - What is a web map?
 - What might you include on a web map?
 - What should you **not** include on your map?
 - A step-by-step tutorial on using Mapbox's [browser editing interface](http://mapbox.com).
 
-### The repo includes:
+### The about page includes:
 
 - A page for parents/teachers on how to use the resources contained and their role in making it successful
 - A list of things to do after giving this presentation to continue teaching about maps and geography + more information on some of the topics.
